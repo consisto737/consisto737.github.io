@@ -1,0 +1,488 @@
+/*Naslovna*/
+.navbar a
+{
+    font-size: 15px;
+    width: 150px;
+}
+
+.navmain2 a
+{
+
+    font-size: 15px;
+    width: auto;
+}
+
+.baneri
+{
+    color: f5f5f5;
+    background-color: f5f5f5;
+}
+
+.baneri h2
+{
+    text-align: center;
+}
+.col-sm8
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-sm4
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.dropdown-menu 
+	{
+    background-color: #343a40;
+    }
+
+    .dropdown-item 
+    {
+    color: #fff;
+	}
+
+.navbarDropdown
+{
+    position: relative;
+}
+
+.slikemain1
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.slikemain1 a
+{
+    width: 100%;
+      font-size: 16px;
+}
+
+
+.slikemain2
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.slikemain2 a
+{
+    width: 100%;
+      font-size: 16px;
+
+}
+
+
+.slikemain3
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.slikemain3 a
+{
+    width: 100%;
+      font-size: 16px;
+}
+
+
+
+.onamahome p
+{
+     text-align: justify;
+}
+
+.onamahome h6
+{
+
+    text-align: center;
+}
+
+.onamahome a
+{
+    position: absolute;
+    left: 40%;
+}
+
+.onamahome h2
+{
+    text-align: center;
+}
+
+.dobrodosli h2
+{
+    text-align: center;
+}
+
+.dobrodosli p
+{
+    text-align: justify;
+}
+
+.naslovproizvodi h2
+{
+    text-align: center;
+}
+
+.naslovproizvodi p
+{
+    text-align: center;
+}
+
+#footer 
+{
+    position: fixed-bottom;
+    background-color: #343a40;
+
+}
+
+
+#footer p 
+{
+     color:white;
+}
+
+
+#txtfoot1
+{
+	text-align: justify;
+    margin-left:10px;
+
+}
+
+.txtfoot2
+{
+    text-align: center;
+    font-family: Script MT Bold,cursive;
+    font-size: 40px;
+}
+
+
+hr 
+{
+    color: white;
+    background-color: white;
+    width: 250px;
+
+}
+
+.navigacijadole ul
+{
+	list-style: none;
+}
+
+.navigacijadole a
+{
+	color: white;
+}
+
+.navigacijadole li
+{
+	color: white;
+
+}
+
+.prava
+{
+	color: black;
+	background-color: black;
+}
+
+.prava p
+{
+	text-align: center;
+}
+
+.btn 
+{
+    background-color: black transparent;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+
+
+
+/*onama*/
+.navmain2 p
+{
+    text-align: center;
+    margin-top: 90%;
+    margin-bottom: 10%;
+}
+
+.navmain2
+{
+  align-items: left;
+}
+
+
+.mainonama
+{
+    margin-left: 1%;
+}
+
+.mainonama h2
+{
+    text-align: center;
+}
+
+.mainonama h5
+{
+    text-align: center;
+}
+
+.mainonama p
+{
+     text-align: justify;
+}
+
+
+.tim
+{
+    background-color: #f6f6f6;
+
+}
+
+.tim h2
+{
+    text-align: center;
+}
+
+.jumbotext
+{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#jumbotron7 
+{
+    margin-bottom: 0px;
+    background-image: url(img/onama/brica1.jpg);
+    background-position: center center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height:300px;
+    width: 300px;
+}
+
+#jumbotron8 
+{
+    margin-bottom: 0px;
+    background-image: url(img/onama/brica2.jpg);
+    background-position: center center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height:300px;
+    width: 300px;
+}
+
+#jumbotron9 
+{
+    margin-bottom: 0px;
+    background-image: url(img/onama/brica3.jpg);
+    background-position: center center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height:300px;
+    width: 300px;
+}
+
+#jumbotron10
+{
+    margin-bottom: 0px;
+    background-image: url(img/onama/brica4.jpg);
+    background-position: center center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height:300px;
+    width: 300px;
+}
+
+/*mapa sajta*/
+.mapa li
+{
+     padding-left: 16px; 
+}
+
+.mapa ul
+{
+    list-style: square;
+}
+
+/*izlazna strana*/
+.izlaz p 
+{
+    margin-left: 3%;
+
+}
+
+.izlaz a
+{
+    margin-left: 3%;
+
+}
+
+
+.cene h2
+{
+     margin-left: 2%;
+
+}
+
+.cene a
+{
+         margin-left: 2%;
+}
+
+.friz h2
+{
+text-align: center;
+}
+
+
+.friz p
+{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.friz img
+{
+    height: 250px;
+    width: 250px;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.beard h2
+{
+text-align: center;
+}
+
+
+.beard p
+{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.beard img
+{
+    height: 250px;
+    width: 250px;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Gallery img
+{
+    height: 300px;
+    width: 300px;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Gallery h2
+{
+text-align: center;
+}
+
+.Karusel1 img
+{
+
+    height: 720px;
+}
+
+.FAQ h2
+{
+    text-align: center;
+}
+
+.FAQ p
+{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.FAQ
+{
+    margin-left: 10px;
+
+}
+
+.korisnilink h2
+{
+    margin-left: 10px;
+    
+}
+
+.korisnilink p
+{
+    margin-left: 10px;
+    
+}
+
+.korisnilink a
+{
+    margin-left: 10px;
+    
+}
+
+.proizvodistr h2
+
+{
+text-align: center;
+}
+
+.proizvodistr h4
+
+{
+text-align: center;
+font-style: italic;
+}
+
+.proizvodistr p
+
+{
+text-align: center;
+}
+
+.proizvodistr img
+{
+    height: 300px;
+    width: 300px;
+}
+
+.proizvodistr
+{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
